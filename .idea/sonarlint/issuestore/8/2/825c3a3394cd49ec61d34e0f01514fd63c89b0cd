@@ -1,0 +1,9 @@
+
+T	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÁÆüG8¾–¾…›1
+X	java:S125"<This block of commented-out lines of code should be removed.(ÿšæ™8¾–¾…›1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(‘Š¸8¿–¾…›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹²¢çûÿÿÿÿ8¿–¾…›1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(­ñüòûÿÿÿÿ8¿–¾…›1
+Y
+java:S1128"=Remove this unused import 'java.util.InputMismatchException'.(Ý§18¿–¾…›1

@@ -10,8 +10,6 @@ W
 T
 $src/variables/PrimitivosBoolean.java,8\c\8c2e47a59ec57e930699ada2f7488ff165ddb8ae
 T
-$src/variables/SistemasNumericos.java,9\1\9123247e56c9f167ea13cc302738593369fb0bcf
-T
 $src/variables/ConversionDeTipos.java,c\b\cb143d8a898f2a6c7aa37014d70b2c7ce252ff36
 S
 #src/variables/DetalleDeFactura.java,4\d\4d60051a3cd347866a3b13673c02a3b1e900226a
@@ -43,3 +41,16 @@ T
 $src/string/EjemploStringMetodos.java,9\2\9220db7e06e77bf32353061bbf2be2ff87efd222
 ?
 JAVA course.iml,7\a\7a467fe85b787a134d176a5d8cb34d383ec234a3
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+[
++src/operadores/OperadoresIncrementales.java,1\4\1432ee159c9d6477ad14c8850b512fdf4fff0a4d
+Z
+*src/operadores/OperadoresRelacionales.java,0\2\021df58df91457e64485794fc3a4ffb4609c5ab3
+U
+%src/operadores/OperadoresLogicos.java,9\a\9a70644ee6583efe5d27556f6df3e2c38a0ef001
+Z
+*src/operadores/OperadoresLogicosLogin.java,d\c\dc738498694db6ffd9b65a59673df5edd17c206f
+b
+2src/operadores/OperadoresLogicosLoginArreglos.java,1\1\117e9e712e47e012dd5a1904a8d6c4574920d419

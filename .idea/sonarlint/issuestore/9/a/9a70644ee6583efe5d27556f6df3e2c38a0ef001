@@ -1,0 +1,36 @@
+
+T
+java:S2589"7Remove this expression which always evaluates to "true"(§ÒìÌ8µÏê«›1
+T
+java:S2589"7Remove this expression which always evaluates to "true"(§ÒìÌ8õ¤ò«›1
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(Ëıíõıÿÿÿÿ8µÏê«›1
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(Ëıíõıÿÿÿÿ8•Õì«›1
+D
+java:S1125"'Remove the unnecessary boolean literal.(¶‡–8¼Û¶«›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ûê¼›8¼Û¶«›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(“®¹ï8½Û¶«›1
+C
+java:S1125"'Remove the unnecessary boolean literal.(íÙºP8½Û¶«›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ìàÊÁıÿÿÿÿ8½Û¶«›1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÏÜÁÅıÿÿÿÿ8ª»«›1
+I
+java:S1125"'Remove the unnecessary boolean literal.(çÓìŒüÿÿÿÿ8¾Û¶«›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(†Çøô8üº«›1
+I
+java:S1125"'Remove the unnecessary boolean literal.(Ëıíõıÿÿÿÿ8¹Ïê«›1
+J
+java:S1125"(Remove the unnecessary boolean literals.(Ëıíõıÿÿÿÿ8ºÏê«›1
+m
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "||"(Ëıíõıÿÿÿÿ8»Ïê«›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ê¬¼8»Ïê«›1
+D
+java:S1125"'Remove the unnecessary boolean literal.(§ÒìÌ8šÕì«›1
+D
+java:S1125"'Remove the unnecessary boolean literal.(§ÒìÌ8šÕì«›1
+E
+java:S1125"(Remove the unnecessary boolean literals.(§ÒìÌ8ù¤ò«›1
+h
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "&&"(§ÒìÌ8ù¤ò«›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïËÎ8šÕì«›1

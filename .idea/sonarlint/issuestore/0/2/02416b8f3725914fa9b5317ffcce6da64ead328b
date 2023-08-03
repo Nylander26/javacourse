@@ -1,0 +1,17 @@
+
+^
+java:S1854"<Remove this useless assignment to local variable "historia".(–şıÿÿÿÿÿ8Èëï¬›1
+Y
+java:S1854"<Remove this useless assignment to local variable "ciencias".(¨ı‡ç8Èëï¬›1
+a
+java:S1854"?Remove this useless assignment to local variable "matematicas".(Œ™ŠÄúÿÿÿÿ8Èëï¬›1
+^
+java:S1854"<Remove this useless assignment to local variable "promedio".(”éÖµùÿÿÿÿ8Èëï¬›1
+\
+java:S6213
+":Rename this variable to not match a restricted identifier.(ÌõÕ¶úÿÿÿÿ8Éëï¬›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§ÌÜÁùÿÿÿÿ8Éëï¬›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(üêÏ¦úÿÿÿÿ8Ìëï¬›1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¡¸ü#8Ìëï¬›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ëëñ„8Ìëï¬›1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ùĞĞöúÿÿÿÿ8Íëï¬›1

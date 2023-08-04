@@ -1,0 +1,20 @@
+
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(§¸Í‚8Ğ÷«Ø›1
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(§¸Í‚8Â‹­Ø›1
+[
+java:S1854">Remove this useless assignment to local variable "condicion2".(ˆû·¸8Æû½Ø›1
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(›îªø8¨ó©Ø›1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(¸´›èÿÿÿÿÿ8àŸªØ›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§¸Í‚8Õ÷«Ø›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(›îªø8Ç‹­Ø›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸´›èÿÿÿÿÿ8Ç‹­Ø›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§¸Í‚8Ç‹­Ø›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‡”ÎÁ8õ¦±Ø›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ô‹ÿÊ8—î²Ø›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÁ8áÉ»Ø›1
+L
+java:S1481"/Remove this unused "condicion2" local variable.(ˆû·¸8Çû½Ø›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÁ8Çû½Ø›1

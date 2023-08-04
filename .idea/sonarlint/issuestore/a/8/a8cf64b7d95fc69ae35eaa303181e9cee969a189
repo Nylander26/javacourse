@@ -1,0 +1,13 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8áí¯Ö›1
+Q
+java:S1659"4Declare "promedioNotasMenoresA4" on a separate line.(“£ßÎ8»æ¤Ö›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ê€ñÏúÿÿÿÿ8¾æ¤Ö›1
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ë¶„ã8¾æ¤Ö›1
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ºÑÞ‘8¾æ¤Ö›1
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(ßË˜…8¾æ¤Ö›1
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(ÃÍ‘þÿÿÿÿ8¾æ¤Ö›1
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ïô‡Üøÿÿÿÿ8¾æ¤Ö›1
+T	java:S106>"9Replace this use of System.out or System.err by a logger.(ú‰ÚX8¿æ¤Ö›1
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(ŒÎäµ8¿æ¤Ö›1

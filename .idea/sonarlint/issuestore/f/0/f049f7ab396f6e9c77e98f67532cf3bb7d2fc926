@@ -1,0 +1,15 @@
+
+Y
+java:S1854"7Remove this useless assignment to local variable "num".(¬®Ş¨ûÿÿÿÿ8Ëşÿ×›1
+Z
+java:S1854">Remove this useless assignment to local variable "intObjeto2".(Ãº08²‚Ø›1
+K
+java:S1481"/Remove this unused "intObjeto2" local variable.(Ãº08²‚Ø›1
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(÷†¤ä8ì€Ø›1
+J
+java:S1481"(Remove this unused "num" local variable.(¬®Ş¨ûÿÿÿÿ8Ìşÿ×›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸´›èÿÿÿÿÿ8ù©Ø›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(³›¿ùÿÿÿÿ8ïŒ„Ø›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(İ­Ö§üÿÿÿÿ8ÑÙ…Ø›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¢°†üÿÿÿÿ8–£ˆØ›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(íÒ¼ä8Ë±‹Ø›1

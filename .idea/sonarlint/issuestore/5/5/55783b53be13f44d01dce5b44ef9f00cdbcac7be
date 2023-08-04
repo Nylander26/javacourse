@@ -1,0 +1,6 @@
+
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8íùÃÓ›1
+t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ğ×ãø8Š­ÄÓ›1
+X
+java:S1119";Refactor the code to remove this label and the need for it.( ê™û8ÉÓ§Ó›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(î×ŸŒ8ğ£Ó›1

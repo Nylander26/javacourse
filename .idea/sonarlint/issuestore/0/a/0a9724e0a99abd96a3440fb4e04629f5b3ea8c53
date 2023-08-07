@@ -1,0 +1,11 @@
+
+h
+java:S2095
+"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÓÓ¡ìÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øôìÂ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—áÈ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾ëó¥
+v
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(€³îïøÿÿÿÿ8Úî¸ü›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æŒ®„ùÿÿÿÿ8òªü›1
+]	java:S125"<This block of commented-out lines of code should be removed.(ñùÒ¤ÿÿÿÿÿ8Æú±ü›1

@@ -1,0 +1,11 @@
+
+c
+java:S1854"ARemove this useless assignment to local variable "lineSeparator".(³¡šÎÿÿÿÿÿ8™íüú›1
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(®İÂÅ8ıŠøú›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—ÔÈ¡8ıŠøú›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚­†½8şŠøú›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›Ğˆ©ùÿÿÿÿ8şŠøú›1
+T
+java:S1481"2Remove this unused "lineSeparator" local variable.(³¡šÎÿÿÿÿÿ8œíüú›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(äá£8¯Çøú›1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(È‡öúıÿÿÿÿ8µ¬şú›1

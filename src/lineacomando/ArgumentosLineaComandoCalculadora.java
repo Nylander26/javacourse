@@ -11,8 +11,8 @@ public class ArgumentosLineaComandoCalculadora {
         }
         String operacion = args[0];
         int a = 0;
-        int b = 0;
-        double resultado = 0.00;
+        double b = 0;
+        double resultado;
 
         try {
             a = Integer.parseInt(args[1]);
@@ -36,7 +36,7 @@ public class ArgumentosLineaComandoCalculadora {
                     System.out.println("No se puede dividir entre cero.");
                     System.exit(-1);
                 }
-                resultado = (double) a / b;
+                resultado = a / b;
                 break;
             default:
                 resultado = a + b;

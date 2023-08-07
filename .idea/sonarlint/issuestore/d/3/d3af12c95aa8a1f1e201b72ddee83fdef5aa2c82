@@ -1,0 +1,8 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ƒÅÓû›1
+o
+java:S2095
+"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÓÓ¡ìÿÿÿÿÿ8‰ÅÓû›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(øôìÂ8ÅÓû›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—áÈ8ÅÓû›1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾ëó¥8ÅÓû›1

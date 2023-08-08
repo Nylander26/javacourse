@@ -1,0 +1,11 @@
+
+_
+java:S1659	"BDeclare "pares" and all following declarations on a separate line.(ÎÕùÛ8ìì1
+L
+java:S1659
+"*Declare "totalImpares" on a separate line.(¯ÂãÌÿÿÿÿÿ8Ÿìì1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ËÂôèıÿÿÿÿ8¡ìì1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(å·»Ãüÿÿÿÿ8¡ìì1
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ôÚ¤8¡ìì1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(Õ±ğƒıÿÿÿÿ8÷ˆí1
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(‰ÖÉ8§“ğ1

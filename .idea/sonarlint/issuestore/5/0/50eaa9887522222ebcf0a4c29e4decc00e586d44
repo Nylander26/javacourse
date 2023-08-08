@@ -1,0 +1,11 @@
+
+]
+java:S1994";Move the update of "count2" into this loop's update clause.(£ßÉÚÿÿÿÿÿ8Äá½üœ1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(Ëš˜îúÿÿÿÿ8Æá½üœ1
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(¸ðÝÚ8Æá½üœ1
+]	java:S125$"<This block of commented-out lines of code should be removed.(êíôÿÿÿÿÿ8Åá½üœ1
+T	java:S106)"9Replace this use of System.out or System.err by a logger.(¯Šª(8•ÔÅüœ1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Â“Âüœ1
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8Â“Âüœ1

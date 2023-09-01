@@ -41,9 +41,6 @@ U
 %src/operadores/OperadoresUnarios.java,7\b\7b34009436ba6f19dbf6fdab3f171a6ddaaee7c3
 ?
 JAVA course.iml,7\a\7a467fe85b787a134d176a5d8cb34d383ec234a3
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 [
 +src/operadores/OperadoresIncrementales.java,1\4\1432ee159c9d6477ad14c8850b512fdf4fff0a4d
 Z
@@ -170,3 +167,21 @@ p
 -src/arreglos/EjemploArreglosNotasAlumnos.java,e\9\e99e3e0d745b4f5da4e68cbd89057e61dd8bcbcd
 ]
 -src/arreglos/EjemploArreglosBuscarNumero.java,0\6\06c9ce9a7c10618910adc3d38c3da0da15848ed1
+b
+2src/arreglos/EjemploArreglosDesplazarPosicion.java,9\4\94f50c6fa2b952aaf6d875569dd4bb8c6e2f2e86
+c
+3src/arreglos/EjemploArreglosDesplazarPosicion2.java,2\f\2f4db13368840d596b84a9aad18543a591a493ce
+]
+-src/arreglos/EjemploArreglosBuscarString.java,e\c\ecf1f28cc9177d3897099799eba67991027ed872
+a
+1src/arreglos/EjemploArreglosEliminarElemento.java,2\9\29fcfa5a80a120ed7b4a00e9e6ac4c0f825052dd
+k
+;src/arreglos/EjemploArreglosDesplazarPosicion2Refactor.java,1\e\1e741c62c0d49a36162beca0d2d29b17a4ba9e17
+c
+3src/arreglos/EjemploArreglosDesplazarPosicion3.java,1\c\1c9a42c11d5acfb9abbf5f520983710259ecd1e4
+k
+;src/arreglos/EjemploArreglosDesplazarPosicion3Refactor.java,9\3\93f7fd12c3052041a061961ec9204e9e97066381
+x
+Hsrc/arreglos/EjemploArreglosForOrdenamientoBurbujaOptimizadoEnteros.java,1\a\1a8e3dafbd5bfc71819b404de2f7042847ae1a6c
+d
+4src/arreglos/EjemploArreglosOrdenPrincipioFinal.java,7\1\71a11a195f0b691a409617064214c55a81f04141
